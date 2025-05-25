@@ -1,5 +1,6 @@
 
-<img src="https://prescripto.vercel.app/" alt="imag"> </img>
+![Online Doctor Appointment System Preview](./Doc.png)
+
 # 🩺 Online Doctor Appointment System
 
 ## 📖 Description
