@@ -1,5 +1,6 @@
 
-![Online Doctor Appointment System Preview](./Doc.png)
+[![Online Doctor Appointment System Preview](./Doc.png)](https://prescripto.vercel.app/)
+
 
 # 🩺 Online Doctor Appointment System
 
